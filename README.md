@@ -2,6 +2,9 @@
 
 ## BrainWiz Quiz App
 
+![Web capture_7-5-2023_205852_brainwiz-brocode netlify app (1)](https://user-images.githubusercontent.com/115362063/236687056-2bdb7305-9784-457a-9a42-51cb9fdf89ff.jpeg)
+
+
 BrainWiz is a quiz app that challenges your knowledge on various subjects, including history, science, literature, and more. The app is built with Vite + React and styled with SCSS to provide a simple, yet attractive user interface.
 
 ### Features
@@ -21,12 +24,7 @@ To get started with BrainWiz, you need to have Node.js installed on your machine
 3. Start the development server by running `npm run dev`.
 4. Open the app in your browser at `http://localhost:3000`.
 
-### How to Play
 
-1. On the home page, select the category you want to play.
-2. Click the "Start Quiz" button to begin the quiz.
-3. Answer all questions by selecting the correct answer and clicking the "Next" button.
-4. After answering all questions, click the "Finish" button to see your score and feedback.
 
 ### Contributing
 
